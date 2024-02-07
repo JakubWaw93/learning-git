@@ -1,1 +1,2 @@
 Przykładowa treść pliku testowego.
+Drobne zmiany.
