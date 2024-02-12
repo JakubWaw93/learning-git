@@ -2,4 +2,4 @@ Przykładowa treść pliku testowego.
 Drobne zmiany.
 Drobne zmiany po mojej stronie. 
 Powtórkowa zmiana.
-
+Zmiana dla rebase.
